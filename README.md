@@ -1,4 +1,4 @@
-# Hi, I’m a graduate student in Shenzhen 👋
+# Hi, I’m a learner in Shenzhen 👋
 
 I’m currently studying and building small research tools around **multimodal large models** and **speech foundation models**. My recent focus is on evaluation, data pipelines, and the less glamorous parts of model research that make experiments reproducible.
 
